@@ -1,14 +1,6 @@
-# Complete User Login & Registration system using PHP and MySQL database
+# EAS PWEB B
 
-version: 1.0.0
-
-###UserName : elias
-###Password : 123
-
-## Full Tutorial
-
-[On Youtube](https://youtu.be/QxZxHUf7c_0)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+Anggota :
+| Nama  | NRP |
+| Fachrendy Zulfikar Abdillah | 5025201018 |
+| Sastiara Maulikh  | 5025201257  |
